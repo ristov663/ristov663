@@ -14,10 +14,8 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ristov663&icon=0&color=12)](https://visitcount.itsvg.in)
-
-<h2>МАТЕРИЈАЛИ ФИНКИ<h2/><hr>
-<a href="https://github.com/orgs/FINKI-Materials/repositories">Линк до мојата FINKI-Materials организација</a>
-<br>
+<h2>МАТЕРИЈАЛИ ФИНКИ<h2/>
+<a href="https://github.com/orgs/FINKI-Materials/repositories">Линк до мојата FINKI-Materials организација</a><hr>
 <h2>ПРОЕКТИ ФИНКИ<h2/><hr>
 <h3>ДОКЕРИЗАЦИЈА И ОРКЕСТРАЦИЈА НА SPRING BOOT АПЛИКАЦИЈА СО CI/CD И KUBERNETES</h3>
 <h4>Континуирана интеграција и испорака</h4>
