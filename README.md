@@ -12,9 +12,9 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ristov663&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ristov663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <hr>
-<h2>МАТЕРИЈАЛИ ФИНКИ<h2/>
+<b><h2>МАТЕРИЈАЛИ ФИНКИ<h2/></b>
 <a href="https://github.com/orgs/FINKI-Materials/repositories">Линк до мојата FINKI-Materials организација</a><hr>
-<h2>ПРОЕКТИ ФИНКИ<h2/>
+<b><h2>ПРОЕКТИ ФИНКИ<h2/></b>
 <h3>ДОКЕРИЗАЦИЈА И ОРКЕСТРАЦИЈА НА SPRING BOOT АПЛИКАЦИЈА СО CI/CD И KUBERNETES</h3>
 <h4>Континуирана интеграција и испорака</h4>
 <a href="https://github.com/ristov663/Project_KIII">Линк до проектот</a>
