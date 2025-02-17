@@ -16,3 +16,35 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 [![](https://visitcount.itsvg.in/api?id=ristov663&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<br><hr><br>
+<h2>ПРОЕКТИ ФИНКИ<h2/><hr>
+<h3>ДОКЕРИЗАЦИЈА И ОРКЕСТРАЦИЈА НА SPRING BOOT АПЛИКАЦИЈА СО CI/CD И KUBERNETES</h3>
+<h4>Континуирана интеграција и испорака</h4>
+<a href="https://github.com/ristov663/Project_KIII">Линк до проектот</a>
+<br><hr>
+<h3>ТЕСТИРАЊЕ НА LARAVEL API АПЛИКАЦИЈА</h3>
+<h4>Софтверски квалитет и тестариње</h4>
+<a href="https://github.com/ristov663/Project_SKIT">Линк до проектот</a>
+<br><hr>
+<h3>ОНЛАЈН УМЕТНИЧКА ГАЛЕРИЈА</h3>
+<h4>Интернет технологии</h4>
+<a href="https://github.com/ristov663/Project_IT">Линк до проектот</a>
+<br><hr>
+<h3>СИСТЕМ ЗА ДОДЕЛУВАЊЕ НА ГРАНТОВИ ЗА НАУЧНИ ПАТУВАЊА НА ФИНКИ</h3>
+<h4>Анализа на софтверски барања</h4>
+<a href="https://github.com/ristov663/Project_ANSB">Линк до проектот</a>
+<br><hr>
+<h3>АЛГОРИТМИ ЗА ДЕТЕКЦИЈА НА РАБОВИ</h3>
+<h4>Дигитално процесирање на слика</h4>
+<a href="https://github.com/ristov663/Project_DPNS">Линк до проектот</a>
+<br><hr>
+<h3>ВЕБ АПЛИКАЦИЈА ЗА КУЛТУРНО - ИСТОРИСКО НАСЛЕДСТВО НА МАКЕДОНИЈА СО КОРИСТЕЊЕ НА РАЗЛИЧНИ СТИЛОВИ НА АРХИТЕКТУРА НА СОФТВЕР</h3>
+<h4>Дизајн и архитектура на софтвер</h4>
+<a href="https://github.com/ristov663/Project_DIANS">Линк до проектот</a>
+<br><hr>
+<h3>МОЈОТ ПРВ ПЕРСОНАЛЕН ВЕБ САЈТ</h3>
+<h4>Основи на Веб дизајн</h4>
+<a href="https://github.com/FINKI-Materials/WD">Линк до проектот</a>
+<br><hr>
+
