@@ -39,4 +39,3 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 <h4>Дизајн и архитектура на софтвер</h4>
 <a href="https://github.com/ristov663/Project_DIANS">Линк до проектот</a>
 <br><hr>
-<br><hr>
