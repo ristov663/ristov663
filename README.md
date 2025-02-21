@@ -39,8 +39,4 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 <h4>Дизајн и архитектура на софтвер</h4>
 <a href="https://github.com/ristov663/Project_DIANS">Линк до проектот</a>
 <br><hr>
-<h3>МОЈОТ ПРВ ПЕРСОНАЛЕН ВЕБ САЈТ</h3>
-<h4>Основи на Веб дизајн</h4>
-<a href="https://github.com/FINKI-Materials/WD">Линк до проектот</a>
 <br><hr>
-
