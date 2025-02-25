@@ -23,7 +23,7 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 <h4>Софтверски квалитет и тестариње</h4>
 <a href="https://github.com/ristov663/Project_SKIT">Линк до проектот</a>
 <br><hr>
-<h3>ОНЛАЈН УМЕТНИЧКА ГАЛЕРИЈА</h3>
+<h3>ВЕБ АПЛИКАЦИЈА ЗА ОНЛАЈН УМЕТНИЧКА ГАЛЕРИЈА ИЗРАБОТЕНА СО C# И .NET</h3>
 <h4>Интернет технологии</h4>
 <a href="https://github.com/ristov663/Project_IT">Линк до проектот</a>
 <br><hr>
