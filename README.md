@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a final year student at <br>Faculty of Computer Science and Engineering (FCSE)
+I'm currently a final year student at <br>Faculty of Computer Science and Engineering (FCSE), Ss. Cyril and Methodius University in Skopje
 
 
 ## 🌐 Socials:
@@ -18,6 +18,10 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 <h3>ВЕБ-БАЗИРАН СИСТЕМ ЗА АНАЛИЗА И ВИЗУЕЛИЗАЦИЈА НА ПОДАТОЦИ ЗА ЈАВНИ НАБАВКИ СО ПРИМЕНА НА СЕМАНТИЧКИ ВЕБ ТЕХНОЛОГИИ</h3>
 <h4>Веб базирани системи</h4>
 <a href="https://github.com/ristov663/Project_WBS">Линк до проектот</a>
+<br><hr>
+<h3>ОБРАБОТКА НА МЕДИЦИНСКИ ПОДАТОЦИ ЗА ПРЕДВИДУВАЊЕ НА РИЗИК ОД МОЗОЧЕН УДАР СО КОРИСТЕЊЕ НА МАШИНСКО УЧЕЊЕ</h3>
+<h4>Тимски проект</h4>
+<a href="https://github.com/ristov663/StrokePrediction">Линк до проектот</a>
 <br><hr>
 <h3>ДОКЕРИЗАЦИЈА И ОРКЕСТРАЦИЈА НА SPRING BOOT АПЛИКАЦИЈА СО CI/CD И KUBERNETES</h3>
 <h4>Континуирана интеграција и испорака</h4>
