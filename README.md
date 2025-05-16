@@ -11,7 +11,16 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 ![](https://github-readme-stats.vercel.app/api?username=ristov663&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ristov663&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ristov663&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<hr>
+<hr><br>
+<h2>PUBLICATIONS<h2/>
+<h3>Ontology-Based Structuring and Analysis of North Macedonian Public Procurement Contracts</h3>
+<h5>Bojan Ristov, Stefan Eftimov, Milena Trajanoska and Dimitar Trajanov</h5>
+<a href="https://arxiv.org/abs/2505.09798">Линк до arXiv препринт верзија</a>
+  <hr>
+<h3>Comparative Analysis of Stroke Prediction Models Using Machine Learning</h3>
+<h5>Anastasija Tashkova, Stefan Eftimov, Bojan Ristov and Slobodan Kalajdziski</h5>
+<a href="https://arxiv.org/abs/2505.09812">Линк до arXiv препринт верзија</a>
+<hr><br>
 <h2>МАТЕРИЈАЛИ ФИНКИ<h2/>
 <a href="https://github.com/orgs/FINKI-Materials/repositories">Линк до мојата FINKI-Materials организација</a><hr>
 <h2>ПРОЕКТИ ФИНКИ<h2/>
@@ -43,7 +52,7 @@ I'm currently a final year student at <br>Faculty of Computer Science and Engine
 <h4>Дигитално процесирање на слика</h4>
 <a href="https://github.com/ristov663/Project_DPNS">Линк до проектот</a>
 <br><hr>
-<h3>ВЕБ АПЛИКАЦИЈА ЗА КУЛТУРНО-ИСТОРИСКО НАСЛЕДСТВО НА МАКЕДОНИЈА СО КОРИСТЕЊЕ НА РАЗЛИЧНИ СТИЛОВИ НА АРХИТЕКТУРА НА СОФТВЕР</h3>
+<!-- <h3>ВЕБ АПЛИКАЦИЈА ЗА КУЛТУРНО-ИСТОРИСКО НАСЛЕДСТВО НА МАКЕДОНИЈА СО КОРИСТЕЊЕ НА РАЗЛИЧНИ СТИЛОВИ НА АРХИТЕКТУРА НА СОФТВЕР</h3>
 <h4>Дизајн и архитектура на софтвер</h4>
 <a href="https://github.com/ristov663/Project_DIANS">Линк до проектот</a>
-<br><hr>
+<br><hr> -->
