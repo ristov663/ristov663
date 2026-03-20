@@ -24,6 +24,10 @@ I'm currently a final year student at<br>Faculty of Computer Science and Enginee
 <h2>МАТЕРИЈАЛИ ФИНКИ<h2/>
 <a href="https://github.com/orgs/FINKI-Materials/repositories">Линк до мојата FINKI-Materials организација</a><hr>
 <h2>ПРОЕКТИ ФИНКИ<h2/>
+<h3>РАЗВОЈ НА ВЕБ-БАЗИРАН СИСТЕМ ЗА УПРАВУВАЊЕ СО РЕГРУТАЦИСКИ ПРОЦЕСИ СО ИНТЕЛИГЕНТЕН АСИСТЕНТ</h3>
+<h4>Дипломска работа</h4>
+<a href="https://github.com/ristov663/Recruitment_System">Линк до проектот</a>
+<br><hr>
 <h3>ДИСТРИБУИРАН МИКРОСЕРВИСЕН СИСТЕМ ЗА УПРАВУВАЊЕ СО МАГИСТЕРСКИ ТРУДОВИ НА ФИНКИ БАЗИРАН НА ПРИНЦИПИТЕ НА DOMAIN-DRIVEN DESIGN</h3>
 <h4>Сервисно ориентирани архитектури</h4>
 <a href="https://github.com/ristov663/Project_SOA">Линк до проектот</a>
