@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently a final year student at<br>Faculty of Computer Science and Engineering (FCSE), Ss. Cyril and Methodius University in Skopje
+
+BSc. of Software Engineering and Information Systems
+
+<br>Faculty of Computer Science and Engineering (FCSE), Ss. Cyril and Methodius University in Skopje
 
 
 ## 🌐 Socials:
