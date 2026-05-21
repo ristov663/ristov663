@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-BSc. of Software Engineering and Information Systems
+BSc in Computer Science and Engineering, specializing in Software Engineering and Information Technologies
 
 <br>Faculty of Computer Science and Engineering (FCSE), Ss. Cyril and Methodius University in Skopje
 
